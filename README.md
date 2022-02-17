@@ -1,13 +1,13 @@
-<h1 align="center">Leon <img src="https://h.top4top.io/p_2036i19a30.jpg" width="40px" alt=""><br></h1>
+<h1 align="center">Rifky <img src="https://h.top4top.io/p_2036i19a30.jpg" width="40px" alt=""><br></h1>
 <p align="center">
 <img src="https://h.top4top.io/p_2036i19a30.jpg" />
 </p>
 
 <p align="center">
 
-- 👼 My name is Leon
+- 👼 My name is Rifky
 
-- 🗣️ I am 14 years old 
+- 🗣️ I am 13 years old 
 
 - 🔭 I am Not programmer
  
